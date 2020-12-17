@@ -1,0 +1,7 @@
+body {
+    background: white url("images/background1.jpg") no-repeat;
+    background-position: bottom top;
+}
+li a {
+    color: black;
+}
